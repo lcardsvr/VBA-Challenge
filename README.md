@@ -63,5 +63,5 @@ To submit, please upload the following to GitHub:
 
   * A screen shot for each year of your results on the multi-year stock data. ---> 3 files uploaded "Result_2018_Sheet.PNG","Result_2019_Sheet.PNG" and "Result_2020_Sheet.PNG" 
 
-  * VBA scripts as separate files. ---> One file which contains the main sub and related funcgtions was uploaded --> "Week_02_Challenge_Code_Luis_Cardenas.vb"
+  * VBA scripts as separate files. ---> One file which contains the main sub and related functions was uploaded --> "Week_02_Challenge_Code_Luis_Cardenas.vb"
 
